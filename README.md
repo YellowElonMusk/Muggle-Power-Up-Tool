@@ -1,12 +1,12 @@
 # Muggle Power‑Up Tool (OpenClaw One‑Click Installer)
 
 This tool installs OpenClaw on Windows with secure defaults in a single step.  
-It is designed for non‑technical users: run it, wait, then launch OpenClaw safely.
+It is designed for non‑technical users: run it, wait, then launch OpenClaw safely(as safe as possible).
 
 ## What This Does
 - Downloads the official OpenClaw Windows package.
 - Verifies the download with an official SHA‑256 checksum.
-- Installs OpenClaw to your computer.
+- Installs OpenClaw to your computer(do not install on your main PC).
 - Creates a secure, local‑only configuration.
 - Generates local tokens on your machine (no keys are shipped inside this installer).
 - Creates a safe launcher that runs a first‑launch security audit.
